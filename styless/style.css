@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+}
+
+header {
+  background-color: #4267B2;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+main {
+  padding: 20px;
+}
+
+.perfil {
+  background-color: #fff;
+  width: 300px;
+  margin: 0 auto 30px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.perfil img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.perfil h2 {
+  margin-top: 15px;
+  font-size: 20px;
+  color: #333;
+}
+
+.perfil p {
+  font-size: 14px;
+  color: #666;
+}
+
+.historias {
+  margin-bottom: 30px;
+}
+
+.historias h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.historia {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.publicaciones {
+  margin-bottom: 30px;
+}
+
+.publicaciones h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.post {
+  background-color: #fff;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.post h4 {
+  margin: 0 0 5px;
+  font-size: 16px;
+}
+
+.post p {
+  font-size: 14px;
+  color: #333;
+}
+
+.sugerencias h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.sugerencias ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sugerencias li {
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
